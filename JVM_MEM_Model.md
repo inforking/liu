@@ -12,6 +12,7 @@ Java 原码编译过程
     - 分析和输入到符号表（字节码验证那一系列过程？）
     - 注解处理
     - 语义分析和生成class文件
+    
 **2. 加载过程**
 ## classLoader##
 
@@ -51,7 +52,7 @@ ps：
 
 ref:https://blog.csdn.net/start_lie/article/details/79016312 https://blog.csdn.net/suifeng3051/article/details/52611310
 
-** 3. 执行过程 **
+**3. 执行过程**
 ## JVM memory model##
 ![http://img.blog.csdn.net/20161210212709845?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaHlsZXh1cw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast](http://img.blog.csdn.net/20161210212709845?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaHlsZXh1cw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast "http://img.blog.csdn.net/20161210212709845?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaHlsZXh1cw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast")
 
