@@ -64,6 +64,7 @@ ref:https://blog.csdn.net/start_lie/article/details/79016312 https://blog.csdn.n
 - 直接内存
 
 方法调用至完成：栈帧从虚拟机入栈到出栈
+
 再贴几张图：
 ![](http://images2015.cnblogs.com/blog/620343/201705/620343-20170513173026160-2119980188.png)
 ![](http://images2015.cnblogs.com/blog/620343/201705/620343-20170513174629504-1262094758.png)
